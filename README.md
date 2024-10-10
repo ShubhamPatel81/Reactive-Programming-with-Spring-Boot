@@ -1,7 +1,7 @@
 ﻿# Reactive-Programming-with-Spring-Boot
 
-## Book API - Spring Boot Reactive
-This project is a Book API built using Spring Boot Reactive Programming. It leverages the non-blocking, asynchronous nature of Spring WebFlux to handle requests efficiently, making it suitable for high-throughput environments. The API includes a search bar feature for dynamically querying books by various attributes.
+## Books API - Spring Boot Reactive
+This project is a Books API built using Spring Boot Reactive Programming. It leverages the non-blocking, asynchronous nature of Spring WebFlux to handle requests efficiently, making it suitable for high-throughput environments. The API includes a search bar feature for dynamically querying books by various attributes.
 
 ## Features
 Reactive endpoints for creating, updating, retrieving, and deleting books.
